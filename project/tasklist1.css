@@ -1,0 +1,215 @@
+body{
+background-color: white;
+width: 100%;
+height: 100%;
+margin: 0;
+}
+.task{
+ height: 900px;
+ background-color: whitesmoke;
+ padding: 0;
+ }
+ .task1{
+    height: 50px;
+    background-color: white; 
+    margin: 0;  
+    padding: 5px;
+    box-shadow: 0px 3px 30px #7B7B7B29;
+    opacity: 1;
+ }
+ span{
+    top: 10px;
+    left: 100px;
+    position: relative;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;  
+ }
+ .task4{
+    top:20px;
+    left:900px;
+    position: relative;
+    font-size: 22px;
+    padding : 15px;  
+ } 
+ a{
+  text-decoration: none;
+  text-align: right;
+  font-family: Arial, Helvetica, sans-serif;
+ }
+ .flex-container{
+   width:800px;
+   height: 400px;
+   display:flex ;
+   justify-content:space-evenly;
+   top:150px;
+   left:90px;
+   right: 50px;
+   position: absolute;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ .flex1{
+   width: 240px;
+   height: 240px;
+   background-color: white;
+   border: 1px solid lightgray;
+   border-radius: 10px;
+   top:60px;
+   left:50px;
+   position: relative;
+   color: #00A5EC;
+   padding: 20px 0 0 0;
+ }
+ a{
+   color: #00A5EC;
+ 
+ }
+ b{
+    padding-left: 20px;
+ }
+ .square{
+   color:lightgray;
+   text-decoration: line-through;
+   left:20px;
+   top: 7px;
+   position: relative;
+ }
+ .test{
+   color:black;
+   left:20px;
+   top: 7px;
+   position: relative;
+ }
+ .flex2{
+   width: 240px;
+   height: 240px;
+   background-color: white;
+   border: 1px solid lightgray;
+   border-radius: 10px;
+   top:60px;
+   left:50px;
+   position: relative;
+   color: #00A5EC;
+   padding: 20px 0 0 0;
+ }
+ b{
+    padding-left: 20px;
+ }
+ .square1{
+   color:lightgray;
+   text-decoration: line-through;
+   left:20px;
+   top: 7px;
+   position: relative;
+ }
+ .test1{
+   color:black;
+   left:20px;
+   top: 7px;
+   position: relative;
+ }
+ .flex3{
+   width: 240px;
+   height: 240px;
+   background-color: white;
+   border: 1px solid lightgray;
+   border-radius: 10px;
+   top:60px;
+   left:50px;
+   position: relative;
+   color: #00A5EC;
+   padding: 20px 0 0 0;
+ }
+ b{
+    padding-left: 20px;
+ }
+ .square2{
+   color:lightgray;
+   text-decoration: line-through;
+   left:20px;
+   top: 7px;
+   position: relative;
+ }
+ .test2{
+   color:black;
+   left:20px;
+   top: 7px;
+   position: relative;
+ }
+ .flex-container1{
+   width:800px;
+   height: 400px;
+   display:flex ;
+   justify-content:space-evenly;
+   top:450px;
+   left:100px;
+   right: 50px;
+   position: absolute;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ .flex5{
+   width: 240px;
+   height: 240px;
+   background-color: white;
+   border: 1px solid lightgray;
+   border-radius: 10px;
+   top:60px;
+   left:38px;
+   position: relative;
+   color: #00A5EC;
+   padding: 20px 0 0 0;
+ }
+ b{
+    padding-left: 20px;
+    font-size: 15px;
+ }
+ .square5{
+   color:lightgray;
+   text-decoration: line-through;
+   left:20px;
+   top: 7px;
+   position: relative;
+ }
+ .test5{
+   color:black;
+   left:20px;
+   top: 7px;
+   position: relative;
+ }
+ .flex6{
+   width: 240px;
+   height: 240px;
+   background-color: white;
+   border: 1px solid lightgray;
+   border-radius: 10px;
+   top:60px;
+   left: 38px;
+   position: relative;
+   color: #00A5EC;
+   padding: 20px 0 0 0;
+ }
+ b{
+    padding-left: 20px;
+ }
+ .square6{
+   color:lightgray;
+   text-decoration: line-through;
+   left:20px;
+   top: 7px;
+   position: relative;
+ }
+ .test6{
+   color:black;
+   left:20px;
+   top: 7px;
+   position: relative;
+ }
+ .flex7{
+   width: 240px;
+   height: 240px;
+   background: color 0;
+   top:60px;
+   left:50px;
+   position: relative;
+   padding: 20px 0 0 0;
+ }

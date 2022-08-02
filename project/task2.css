@@ -1,0 +1,48 @@
+.frame{
+  height:900px;
+  background-blend-mode: overlay;
+  background: rgb(0, 0, 0,0.6)  url(./download.png);
+}
+.add{
+   width:300px;
+   height:150px;
+   border: 1px solid  lightgrey;
+   border-radius: 10px;
+   padding: 20px;
+   margin: 0;
+   top:30%;
+   bottom:50%;
+   right:30%;
+   left:35%;
+   position: absolute;
+   background-color: white;
+}
+.sub{
+ font-size: 20px;
+ font-family: Arial, Helvetica, sans-serif;
+ padding:0 ;
+}
+.mul{
+  background-color: whitesmoke;
+}
+input{
+   border: 0;
+   background-color: whitesmoke;
+   padding: 10px 120px 10px 10px;
+   
+}
+button{
+     background-color: #00A5EC;
+    color:#FFFFFF;
+    padding: 5px 20px 5px 20px;
+    font-size: 17px;
+    border: 0;
+    border-radius: 5px;
+    left:170px;
+    position: relative;
+}
+.main{
+  width:150%;
+  height:900px;
+  filter: blur(3px);
+}
